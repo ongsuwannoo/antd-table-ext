@@ -439,7 +439,7 @@ const Table = ({
     locale: locale
   }, tableColumnSettingsDialogState, {
     tableRef: ref,
-    onExportToExcel: exportToExcel
+    // onExportToExcel: exportToExcel
   }))));
 };
 
